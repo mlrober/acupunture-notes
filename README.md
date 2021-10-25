@@ -7,8 +7,9 @@ This Repository contains the notes taken from the acupuncture training class.
 
 ## Panchaboothams
 
-Panchabhoothams are the five elements of nature which are ** "Earth, Water, Fire, Air, Akash" **
-These elements are termed as ** "Fire, Earth, Metal, Water, Wood" **
+Panchabhoothams are the five elements of nature which are ** Earth, Water, Fire, Air, Akash **
+
+These elements are termed as ** Fire, Earth, Metal, Water, Wood **
 
 - As Panchabootas are the building blocks of universe, 
 the same Panchabootas are the building blocks of human body too.
