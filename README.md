@@ -4,6 +4,7 @@ This Repository contains the notes taken from the acupuncture training class.
 
 # Lessons
 - [Panchabootas](#Panchaboothams)
+- [Sakthi](#sakthi)
 
 ## Panchaboothams
 
