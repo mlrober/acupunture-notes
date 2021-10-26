@@ -43,6 +43,14 @@ It is pcturized as follows:
 |---|---|---|
 | Fire | wood | earth |
 | Earth | Fire | Metal |
-| Metal | Metal | Water |
-| Water | Water | Wood |
-| Wood | Wood | Fire |
+| Metal | Earth | Water |
+| Water | Metal | Wood |
+| Wood | Water | Fire |
+
+#### Sakthi
+
+Yin, Yang (sakthi, sivam)
+
+Yin is a form of feminine energy like night, cold, calm & confined, soft
+
+Yang is form of masculine energy like day, hot, hard, expressive, bold
