@@ -5,6 +5,7 @@ This Repository contains the notes taken from the acupuncture training class.
 # Lessons
 - [Panchabootas](#Panchaboothams)
 - [Sakthi](#sakthi)
+- [Body Parts of Panchabhoothams|(#Panchabhoothams and their Body Parts)
 
 ## Panchaboothams
 
@@ -50,8 +51,62 @@ It is pcturized as follows:
 
 #### Sakthi
 
-Yin, Yang (sakthi, sivam)
+Yin, Yang (sivam, sakthi)
 
-Yin is a form of feminine energy like night, cold, calm & confined, soft
+Yin is form of masculine energy like day, hot, hard, expressive, bold
+Yang is a form of feminine energy like night, cold, calm & confined, soft
 
-Yang is form of masculine energy like day, hot, hard, expressive, bold
+In every aspect, there is a yin and yang.
+- If there is a yin, then there is a yang too.
+- If there is a yang, then there is a yin.
+
+Both are interconnected like arthanaageswarar.
+However, the strength or power of it matters, the conditions can be as follows:
+- If Yin may be high but yang will be low
+- If Yang may be high but yin will be low
+- There is possible both of them are present in equal propotion
+
+#### Panchabhoothams and their Body Parts
+
+There are 12 Major Parts of body which are associated with each of five elements (panchaboothas)
+Each of 12 parts are responsible for certain actions or tasks in body.
+Every part in the respective element are interrelated too and not independent.
+
+Body Parts for Fire Element
+- Heart (h) - Responsible for pumping and purification of blood
+- Pericardium (p) - Responsible for protecting the heart with a layer enclosing the heart. It helps protect heart from any higher sounds or disturbances from the environment which hampers the functionality of heart.
+- Small Intestine (si) - Responsible for absorbing vitamins, proteins from the food
+- Tripple Warmer (tw) - Responsible for stimulating heat in 3 areas near heart, lower abs.
+
+Body Parts for Earth Element
+- Stomach (st) - Responsible for digestion
+- Spleen (sp) - Responsible for purification of blood that contains dead cells or fight against germs
+
+Body Parts for Metal Element
+- Lungs (lu) - Responsible for absoribing oxygen in air and pass it to RBC
+- Large Intestine (li) - Responsible for absorbing water, salt and electrolytes from food
+
+Body Parts for Water Element
+- Kidney (k) - Responsible for filtering blood to remove all the wastes
+- Urinal Bladder (ub) - Responsible for storing the urine and excreting from the body
+
+Body Parts for Wood Element
+- Liver (lv) - Responsible for creating medicine required to cure diseases. It also called as "Acid Factory"
+- Gal Bladder (gb) - Responsible for storing the acid water which is used to digest the food. It is called as "Pitha Pai"
+
+Projection of Five Elements and Sakthi
+| Element | Body Part | Symbol | Sakthi |
+|---|---|---|---|
+| Fire | Heart | h | Yin |
+| Fire | Pericardium | p | Yin |
+| Fire | Small Intestine | si | Yang |
+| Fire | Tripple Warmer | tw | Yang |
+| Earth | Stomach | st | Yin |
+| Earth | Spleen | sp | Yang |
+| Metal | Lungs | lu | Yin |
+| Metal | Large Intestine | li | Yang |
+| Water | Kidney | k | Yin |
+| Water | Urinal Bladder | ub | Yang |
+| Wood | Liver | liv | Yin |
+| Wood | Gal Bladder | gb | Yang |
+
