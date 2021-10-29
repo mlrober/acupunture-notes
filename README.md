@@ -5,7 +5,7 @@ This Repository contains the notes taken from the acupuncture training class.
 # Lessons
 - [Panchabootas](#Panchaboothams)
 - [Sakthi](#sakthi)
-- [Body Parts of Panchabhoothams|(#Panchabhoothams and their Body Parts)
+- [Body Parts of Panchabhoothams](#Panchabhoothams and their Body Parts)
 
 ## Panchaboothams
 
