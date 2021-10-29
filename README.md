@@ -5,7 +5,7 @@ This Repository contains the notes taken from the acupuncture training class.
 # Lessons
 - [Panchabootas](#Panchaboothams)
 - [Sakthi](#sakthi)
-- [Body Parts of Panchabhoothams](#Body Parts of Panchabhoothams)
+- [Body Parts of Panchabhoothams](#Body_Parts)
 
 ## Panchaboothams
 
@@ -49,7 +49,7 @@ It is pcturized as follows:
 | Water | Metal | Wood |
 | Wood | Water | Fire |
 
-#### Sakthi
+## Sakthi
 
 Yin, Yang (sivam, sakthi)
 
@@ -66,7 +66,7 @@ However, the strength or power of it matters, the conditions can be as follows:
 - If Yang may be high but yin will be low
 - There is possible both of them are present in equal propotion
 
-#### Body Parts of Panchabhoothams
+## Body_Parts
 
 There are 12 Major Parts of body which are associated with each of five elements (panchaboothas)
 Each of 12 parts are responsible for certain actions or tasks in body.
