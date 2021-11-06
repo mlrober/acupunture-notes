@@ -110,3 +110,31 @@ Projection of Five Elements and Sakthi
 | Wood | Liver | liv | Yin |
 | Wood | Gal Bladder | gb | Yang |
 
+#### Sakthi
+
+In Accupuncture, we mainly focus on "Unavu & Uyir" sakthi, we stimulate the sakthi passing paths to spread the sakthi whereever is reduced. This cures the deficiency of any sakthi and makes body healthier.
+
+There are 5 types of sakthi exist are as:
+
+1. Kaatru Satkhi (Air)
+
+It is also known as "Pranan". This sakthi enter in our body through breath (Air).
+
+2. Unavu Sakthi (Food)
+
+This sakthi is absorbed in our body through the foods that we eat. Our body can function and stimulate all organs through food and grabs the required proteins from it.
+
+3. Kolgal Sakthi (Planet)
+
+This sakthi is absorbed from the planets in the universe, it is impacting us through various means.
+
+4. Uyir Sakthi (Soul)
+
+This sakthi is inside our body and will be charged through cosmic energy. If this sakthi is not present, we will die.
+
+5 Panja Bhootha Sakthi (5 Elements)
+
+This sakthi is produced when the child borns as uyir. Uyir formed with these 5 elements and always helps stimulate the sakthi in body whenever any of the elements is lower.
+
+
+
