@@ -8,6 +8,7 @@ This Repository contains the notes taken from the acupuncture training class.
 - [Body Parts of Panchabhoothams](#Body_Parts)
 - [Sakthigal](#Sakthi)
 - [Heart](#Heart)
+- [Nuraieeral](Nuraieeral)
 
 ## Panchaboothams
 
@@ -204,4 +205,60 @@ Always check if the dystolic is not > 100 or < 70, then it will be harmful.
 
 Usually the Pulse or Nadi should be 72 or 80. it is normal
 
+## Nuraieeral
+
+#### Structure of Lungs
+
+Lungs is the main organ which is responsible for breathing air into the body and is then flown into blood to keep all organs healthy.
+
+There is pipe which is going in through toungue which is called "Trackia" which will go straight and then it will split into two parts this is called as "Bronchai". THe Bronchai will have left & right lung. The bronchai will form as tree shaped strucutre inside the lung and at the end of each leaf there is "Alvoeli". There are 700 million Alvoeli's in the lungs.
+
+The right lung and left lung are not of same size and weight but both together gains 1.3 kg. The right lung is bigger and at the end it is flat because it has to accomodate "Liver". The left lung bottom is of small and is not flat because it has to accomodate "heart". The left lung has two lobes as "Upper and Lower". The right lobes as "Upper, Middle and Lower".
+
+#### Usage of Plural Liquid
+
+The gap between the bronchai is called as mediasten. There are two layers above the lungs which is called plural membranes. Top layer is called "Pertal Plura" and the inner layer is "Visaral Plura". There is a fluid between these two layers called as "plural fluid". It prevents rubbing each other and shaking or unstability effect on the lungs.
+
+#### Working of Alveoli's
+
+The Alveoli has a membrane on the upper layer which is created by cell inside of it. The blood Capillaries are present on top of this membrane. It has the property of alphobic & alpholic means (neer urunjum thanmai & neer veliyetrum thanmai). Once we breathe in, the air will be absorbed by alveoli's and the diffusion process happens which exits oxygen outside then the capillary arteries will take the oxygen and pass it to haemoglobin in the blood. The co2 in the haemoglobin will be sent out to veins which will then take place diffusion process and this air will be sent out as exhalation. When the blood flows the haemoglobin will absorb the air through capillary arteries & veins in lungs. 
+
+#### Inhalation & Exhalation Process
+
+As lungs doesn't have muscles to handle inhalation & exhalation, it takes help from the muscles in throat, inner bones and diaphragm. Diaphragm is the main backbone for breathing or lungs and it is in doom shape. 
+
+When we breath in the air, the lungs will expand through muscle in the inner bones and the diaphragm will shrink. When we breath out the air, the lungs will shrink and the diaphragm will expand to hold full air in it. This is how the breathing process takes place in lungs.
+
+#### Important Functions of Lungs
+
+1. Uyir Sakthi
+2. Sakthi naalangal mookil thirakiradhu
+3. Thol matrum udal mudiyai aalumai paduthuvadhu (Influencing Skin & Body Hair)
+4. Udal Neerthanmai olungupaduthuvadhu (Streamline Water Power in body)
+
+1. When we breath in air into our body, the lungs will absorb different energies through air. It absorbs oxygen and prapancha sakthi from the air and it will store the prapancha sakthi in it. It also absorbs uyir sakthi from manneeral (sphleen) and save it locally. The saved energy will be transferred to entire body whenever is required for any part of body. 
+Usally we get tired when it crosses 6 PM or after sunset, the reason is that the uyir sakthi is exhausted in our body and it needs recharged to be more active. This is controlled by lungs. Only Lungs can absorb prapancha sakthi and uyir sakthi in our body.
+
+#### Effects of Low Uyir Sakthi
+
+If the uyir sakthi is less, then we will be tired, energy less or feeble voice and struggling to breath properly.
+
+2. The Sakthi flows through lungs influences breathing and smelling sensation to act on. 
+
+#### Effects
+
+If the lungs is affected by cold air, it will trigger cold, blockage of nose and smell lessness. 
+If the lungs is affected by Hot air, it will trigger itching nose, voice becomes weird and dry.
+
+3. The absorbed uyir sakthi through Nuraieeral will be mixed with blood and passes to entire body. Through the blood flow, the heat and cold in our body is stimulated and provides sufficient heat ot skin and cold to muscle when needed. Every hole in the skin is capable of absorbing prapancha sakthi into our body. When the lungs is properly functioning, the skin and the har will be more thick and healthy. 
+
+#### Effects
+
+If a disease is affected through the skin, then we will face cold, cough, fever and closed nose. If the lungs is not able to control the skin, then it will trigger sweat heavily to protect it.
+
+4. Due to the property of prapancha sakthi flowing down, it increases the speed of liquids flow in the body. 
+
+#### Effects
+
+If this process is not happening properly which will trigger cough, trouble breathing. If it goes serious, then it will reflect as unable to split urine, swallow in urinal bladder.
 
