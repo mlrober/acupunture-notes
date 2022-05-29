@@ -69,6 +69,28 @@ However, the strength or power of it matters, the conditions can be as follows:
 - If Yang may be high but yin will be low
 - There is possible both of them are present in equal propotion
 
+## QI_Pathways
+
+Pathway of Qi(chi) Energy
+
+4 Chi Energies
+- one for Head
+- one for Chest
+- One for Abdomen
+- One for Legs
+
+Chest & Abdomen Chi is closely related to "Back shu & Front mu" points
+
+4 seas in body
+- Sea of Maron - lies in head 
+-- Du 20, 16 - Important for treating brain marrow diseases
+- Sea of Qi - lies in chest - Lung domainates chi & Ancestral Qi 
+-- Du 13, 14, st 9 - to treat chi diseases
+- Sea of Water & food - lies in upper abdomen - to treat stomach & chi nutritive & protective 
+-- st30, st 36
+- Sea of blood - lies in lower abdomen - Sea that flows in entire body and all meridians 
+-- st37, bl11, st39
+
 ## Body_Parts
 
 There are 12 Major Parts of body which are associated with each of five elements (panchaboothas)
@@ -261,4 +283,23 @@ If a disease is affected through the skin, then we will face cold, cough, fever 
 #### Effects
 
 If this process is not happening properly which will trigger cough, trouble breathing. If it goes serious, then it will reflect as unable to split urine, swallow in urinal bladder.
+
+## Heart
+
+### Anatomy and Physiology of Heart
+
+Heart is located in the lower portion of chest bones where it is slanted left towards the lungs on the chest cavity. It is the main organ of human body that acts as transportation system to send oxygen contained blood to body and receives co2 contained blood from body. The orgain is created with a special type of muscle which no other organ has in the body. 
+
+It is a created with a special muscle and is in a form of net tied up together.
+There are 4 lobes in heart named as Left & Right Auricle that faces upwards and Left & Right Ventricle that faces downwards.
+Left Ventricle splits into 2 arteries and is called "Aorta". Each artery further split into two and becomes 4.
+- One artery splits into 2 and goes to brain and face
+- One artery splits into 2 and goes to uparms and shoulders
+- One artery splits into 2 and goes to body trunk back & front side
+- One artery splits into 2 and goes to legs
+
+Right Aricle receives used blood from entire body.
+It splits to 2 veins, one faces upwards and one faces downwards.
+Upward vein receives blood from brain, arms and downward vein receives blood from trunk, legs.
+Once aricle is filled, the valve gets closed and the blood flows into right ventricle which then transmits to "Pulmenary Artery" and it sends the blood into entire "Lungs" and the capillaries in the alveoli of lungs obsorbs Co2 and adds "oxygen" to blood. It is further transmitted to "Pulmenary Vein" and is passed onto "Left Aricle". Once it is filled, the valve opens and blood dumped into "Left Ventricle" that passes the Pure blood to entire body.
 
