@@ -5,10 +5,12 @@ This Repository contains the notes taken from the acupuncture training class.
 # Lessons
 - [Panchabootas](#Panchaboothams)
 - [Yin Yang Thathuvam](Thanmai)
+- [Pathway of Chi Energy](#qi)
 - [Body Parts of Panchabhoothams](#Body_Parts)
 - [Sakthigal](#Sakthi)
-- [Heart](#Heart)
-- [Nuraieeral](Nuraieeral)
+- [Abatomy & Physiology of Body](#anatomy)
+  - [Heart](#Heart)
+  - [Nuraieeral](Nuraieeral)
 
 ## Panchaboothams
 
@@ -69,11 +71,11 @@ However, the strength or power of it matters, the conditions can be as follows:
 - If Yang may be high but yin will be low
 - There is possible both of them are present in equal propotion
 
-## QI_Pathways
+## qi
 
-Pathway of Qi(chi) Energy
+#### Pathway of Qi(chi) Energy
 
-4 Chi Energies
+**4 Chi Energies
 - one for Head
 - one for Chest
 - One for Abdomen
@@ -81,15 +83,15 @@ Pathway of Qi(chi) Energy
 
 Chest & Abdomen Chi is closely related to "Back shu & Front mu" points
 
-4 seas in body
+**4 seas in body
 - Sea of Maron - lies in head 
--- Du 20, 16 - Important for treating brain marrow diseases
+  - Du 20, 16 - Important for treating brain marrow diseases
 - Sea of Qi - lies in chest - Lung domainates chi & Ancestral Qi 
--- Du 13, 14, st 9 - to treat chi diseases
+  - Du 13, 14, st 9 - to treat chi diseases
 - Sea of Water & food - lies in upper abdomen - to treat stomach & chi nutritive & protective 
--- st30, st 36
+  - st30, st 36
 - Sea of blood - lies in lower abdomen - Sea that flows in entire body and all meridians 
--- st37, bl11, st39
+  - st37, bl11, st39
 
 ## Body_Parts
 
@@ -161,7 +163,24 @@ This sakthi is inside our body and will be charged through cosmic energy. If thi
 
 This sakthi is produced when the child borns as uyir. Uyir formed with these 5 elements and always helps stimulate the sakthi in body whenever any of the elements is lower.
 
+## anatomy
+
 ## Heart
+
+Heart is located in the lower portion of chest bones where it is slanted left towards the lungs on the chest cavity. It is the main organ of human body that acts as transportation system to send oxygen contained blood to body and receives co2 contained blood from body. The orgain is created with a special type of muscle which no other organ has in the body. 
+
+It is a created with a special muscle and is in a form of net tied up together.
+There are 4 lobes in heart named as Left & Right Auricle that faces upwards and Left & Right Ventricle that faces downwards.
+Left Ventricle splits into 2 arteries and is called "Aorta". Each artery further split into two and becomes 4.
+- One artery splits into 2 and goes to brain and face
+- One artery splits into 2 and goes to uparms and shoulders
+- One artery splits into 2 and goes to body trunk back & front side
+- One artery splits into 2 and goes to legs
+
+Right Aricle receives used blood from entire body.
+It splits to 2 veins, one faces upwards and one faces downwards.
+Upward vein receives blood from brain, arms and downward vein receives blood from trunk, legs.
+Once aricle is filled, the valve gets closed and the blood flows into right ventricle which then transmits to "Pulmenary Artery" and it sends the blood into entire "Lungs" and the capillaries in the alveoli of lungs obsorbs Co2 and adds "oxygen" to blood. It is further transmitted to "Pulmenary Vein" and is passed onto "Left Aricle". Once it is filled, the valve opens and blood dumped into "Left Ventricle" that passes the Pure blood to entire body.
 
 Heart is the main part of our body as it passes the blood to all the parts of body as per their requirement on a dynamic basis.
 
@@ -284,22 +303,34 @@ If a disease is affected through the skin, then we will face cold, cough, fever 
 
 If this process is not happening properly which will trigger cough, trouble breathing. If it goes serious, then it will reflect as unable to split urine, swallow in urinal bladder.
 
-## Heart
+## ub
 
-### Anatomy and Physiology of Heart
+### Urinary Bladder
 
-Heart is located in the lower portion of chest bones where it is slanted left towards the lungs on the chest cavity. It is the main organ of human body that acts as transportation system to send oxygen contained blood to body and receives co2 contained blood from body. The orgain is created with a special type of muscle which no other organ has in the body. 
+Urinary Bladder plays very important role in excreeting urine or impurities from our body through urine. it has 3 three layers in it namely Uretar, Bladder, Urethra, prostate gland.
+UB is appeared as baloon when expanded and triangle if shrinked
+Urine from kidney is flown into UB in drops slowly, once the bladder is full and there is pressure created to sesnse us like to pee. The prostate gland act as a valve which triggers the sensation of urine excreetion when it receives too much pressure. When we are ready, the gland opens and the bladder shrinks to flush out all the urine from the bladder after excreetion completed, the gland closes the valve and again starts storing the urine.
 
-It is a created with a special muscle and is in a form of net tied up together.
-There are 4 lobes in heart named as Left & Right Auricle that faces upwards and Left & Right Ventricle that faces downwards.
-Left Ventricle splits into 2 arteries and is called "Aorta". Each artery further split into two and becomes 4.
-- One artery splits into 2 and goes to brain and face
-- One artery splits into 2 and goes to uparms and shoulders
-- One artery splits into 2 and goes to body trunk back & front side
-- One artery splits into 2 and goes to legs
+Urater - Carries urine from kidney to the bladder
+Bladder - Stores the urine in it
+Urethra / Prostate gland - Controls the release of urine
+Capacity of Bladder minimum 500ml and max 900ml, chil 100ml upto 2 years and 1 to 5 yrs 200ml and gradually increases as age goes
 
-Right Aricle receives used blood from entire body.
-It splits to 2 veins, one faces upwards and one faces downwards.
-Upward vein receives blood from brain, arms and downward vein receives blood from trunk, legs.
-Once aricle is filled, the valve gets closed and the blood flows into right ventricle which then transmits to "Pulmenary Artery" and it sends the blood into entire "Lungs" and the capillaries in the alveoli of lungs obsorbs Co2 and adds "oxygen" to blood. It is further transmitted to "Pulmenary Vein" and is passed onto "Left Aricle". Once it is filled, the valve opens and blood dumped into "Left Ventricle" that passes the Pure blood to entire body.
+Symptoms of Weakness
 
+- Frequent urination due to weakness in bladder muscles or prostate gland weakness
+- If stomach has become bulge and shrinks UB which results in urine releases when cough or laugh
+- When stomach goes down, he/she will not be able to excrete urine though you feel like to pee
+- If a person doesn't pee for long time and no water consumed, then too much heat generated in the bladder. 
+- If a person holds urine for long time, the recycling process takes place and the water content in urine is reabsorbed into blood. As a result, urea/uric acid remains in the bladder and forms a coating on the bladder/kidney that will result in kidney/UB stone over the period of time.
+
+#### Category
+- Yang
+  - Small amout of urine comes frequently
+  - Dissatisfaction of urination
+  - Burning/Itching/Pain/pricking pain on urine track
+  - Color change in urine
+- Yin
+  - Feels like pee but urine doesn't come
+  - Urine comes immediately after peeing
+  - Urine goes without control before reaching toilet
