@@ -10,7 +10,10 @@ This Repository contains the notes taken from the acupuncture training class.
 - [Sakthigal](#Sakthi)
 - [Abatomy & Physiology of Body](#anatomy)
   - [Heart](#Heart)
-  - [Nuraieeral](Nuraieeral)
+  - [Nuraieeral](#Nuraieeral)
+  - [Urinary Bladder](#ub)
+- [Small Intestine](#Small_Intestine)
+  - [Spleen](#Spleen)
 
 ## Panchaboothams
 
@@ -334,3 +337,47 @@ Symptoms of Weakness
   - Feels like pee but urine doesn't come
   - Urine comes immediately after peeing
   - Urine goes without control before reaching toilet
+
+## Small_Intestine
+
+Small Intestine is located in the center of abdominal cavity straight behind the amblicus. It is of 17 ft long out of 22 ft long food pipe from mouth to aenas.
+There are 3 layers in small intestine are as
+- Deodinum 
+	- Front part of SI and is Connected with Stomach. Food digested in stomach will reach here slowly and reaches the next level. 
+	- Digestive fluids from pancreas, gall bladder will flow in depends on the type of food enters
+- Giginium 
+	- is the center of SI and burns out any hard particle enters here
+	- Villeis will slowly make movement and absorbs the nutrients from the food and passes it to blood
+	- Center of Digestive system that secrets blood in the body
+	- once absorbs the food and the remaining junk will be send it to next layer
+- Ilium
+	- It absorbs the remaining nutrients in the food and passes the waste into large intestine with the help of "Appendice"
+
+Effects
+- Causes Amblical Hernea, Right or Left Hernea and Hydrocil
+- If the waste remained in SI, it loses the gripness and intestine will come down from its position
+
+
+## Spleen
+
+Spleen is located in the abdominal cavity on the left side behind the stomach and is attached to the bones.
+
+Main Functions
+- Exchange energy between stomach and spleen
+- Saves energy and helps active throughout the day
+- Creates WBC
+
+Spleen stores the QI energy from the food which is used to create hunger, thurst, transmitting digested food to SI etc.
+
+It abosrbs the instant energy or glucose from the food that fell in stomach and mixes it into blood which then circulated to heart and lungs.
+
+It creates trigger to stomach by supplying a fluid and then abosorbs the energy that is digested by stomach and stores the food energy in it, acts as a energy storage.
+
+Spleen saves the damaged, used or broken RBC cells from blood and converts into WBC.
+
+Effects
+- Feeling too much hungry or not feeling hungry
+- Feeling thursty or not feeling thursty
+- Able to eat food into stomach or getting vomit when ate food
+- Food gets digested or not and feeling stomach heavy and not able to breath properly
+- Getting Sweat during eating or feeling like sleepy or padapadapu
